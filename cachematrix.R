@@ -1,5 +1,3 @@
-## https://github.com/
-## 1st commit SHA-1 hash identifier: 
 ## R Programming Assignment 2: Caching the inverse of a matrix
 
 ## The makeCacheMatrix function creates a special "matrix", that can cache its inverse
